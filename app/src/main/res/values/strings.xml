@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Maurya Food</string>
+    <string name="already_have_account_login">Already have account ? Login</string>
+    <string name="sign">SIGN</string>
+    <string name="or_with">Or With</string>
+    <string name="maurya_cafe">Maurya Cafe</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="strong_password">Strong Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">User Name</string>
+    <string name="_91_1234567890">+91 1234567890</string>
+    <string name="register">REGISTER</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
