@@ -16,12 +16,12 @@
 
 # ScreenShots:
 <p align="center">
-  <img src="screenshots/item_1" width="250"/>
-  <img src="screenshots/item_2" width="250"/>
+  <img src="screenshots/screen_1" width="250"/>
+  <img src="screenshots/screen_2" width="250"/>
 </p>
 <p align="center">
-  <img src="screenshots/item_3" width="250"/>
-  <img src="screenshots/item_4" width="250"/>
+  <img src="screenshots/screen_3" width="250"/>
+  <img src="screenshots/screen_4" width="250"/>
 </p>
 
 
