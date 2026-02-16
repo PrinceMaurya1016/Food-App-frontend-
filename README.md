@@ -17,11 +17,11 @@
 # ScreenShots:
 <p align="center">
   <img src="screenshots/screen_1.png" width="250"/>
-  <img src="screenshots/screen_2" width="250"/>
+  <img src="screenshots/screen_2.png" width="250"/>
 </p>
 <p align="center">
-  <img src="screenshots/screen_3" width="250"/>
-  <img src="screenshots/screen_4" width="250"/>
+  <img src="screenshots/screen_3.png" width="250"/>
+  <img src="screenshots/screen_4.png" width="250"/>
 </p>
 
 
